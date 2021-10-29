@@ -26,8 +26,11 @@ ul{
   color: Green;
   font-family: 'Qahiri', sans-serif;
   font-size: 32px;
-  
+}
 
+footer{
+  color: black;
+  
 }
 /* Make the header and footer a different color from the background */
 
